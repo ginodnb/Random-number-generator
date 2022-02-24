@@ -43,7 +43,7 @@ h1 {
     transform: translate(-50%, -50%);
     color: white;
     background-color: lightskyblue;
-    height: 350px;
+    height: 365px;
     width: 50vw;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 15px;
@@ -63,6 +63,7 @@ form {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: mintcream;
     font-weight: bold;
+    border-radius: 5px;
 }
 #button1:hover {
     background-color: rgb(240, 223, 193);
